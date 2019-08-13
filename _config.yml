@@ -8,6 +8,8 @@ plugins:
 
 permalink: /:year/:month/:day/:title/
 
+exclude: ["README.md", "LICENSE.txt", "publish.sh", "Gemfile", "Gemfile.lock"]
+
 defaults:
   -
     scope:
