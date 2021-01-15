@@ -45,9 +45,9 @@ social_media:
   twitter: TGRHavoc
   # unsplash: your_username
   # vk: your_username
-  website: https://docs.tgrhavoc.co.uk
+  website: "https://docs.tgrhavoc.co.uk"
   youtube: tgrhavoc
-  matrix: @tgr_havoc:matrix.org
+  matrix: "tgr_havoc:matrix.org"
 
 topics:
   - name: Bots
